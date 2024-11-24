@@ -145,6 +145,8 @@ Hola mi nombre es Andrès Cajas, soy estudiante de desarrollo de software del IT
   </p>
 </div>
 </details>
+
+<details>
   <summary>Quote</summary>
   <br>
   <blockquote>
