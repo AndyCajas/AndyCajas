@@ -147,7 +147,7 @@ Hola mi nombre es Andrès Cajas, soy estudiante de desarrollo de software del IT
   <br>
   <blockquote>
     “El estudio es la mejor arma para cambiar el mundo” 
-    <br><strong>Mr. Robot - Nelsòn Mandela</strong>
+    <br><strong>Nelsòn Mandela</strong>
   </blockquote>
 </details>
 
